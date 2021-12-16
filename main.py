@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import time
 
-lbpcascade = cv2.CascadeClassifier('LBP/lbp_output2/cascade.xml')
+lbpcascade = cv2.CascadeClassifier('lbpcascades/cascade3.xml')
 # haarcascade = cv2.CascadeClassifier('/haarcascade_frontalface_default.xml')
 vid = cv2.VideoCapture(0)
 

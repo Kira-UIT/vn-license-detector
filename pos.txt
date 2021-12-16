@@ -3956,7 +3956,6 @@ data/positive/IMG_3957.jpg 1 277 361 38 39
 data/positive/IMG_3958.jpg 1 192 346 82 59
 data/positive/IMG_3959.jpg 1 190 345 84 62
 data/positive/IMG_3960.jpg 1 190 223 72 53
-data/positive/IMG_3961.jpg 1 188 393 81 -66
 data/positive/IMG_3962.jpg 1 183 327 86 67
 data/positive/IMG_3963.jpg 1 192 224 75 58
 data/positive/IMG_3964.jpg 1 193 223 72 59
@@ -6380,7 +6379,6 @@ data/positive/IMG_6381.jpg 1 255 152 83 77
 data/positive/IMG_6382.jpg 1 189 73 82 73
 data/positive/IMG_6383.jpg 1 208 110 76 74
 data/positive/IMG_6384.jpg 1 207 190 77 63
-data/positive/IMG_6385.jpg 1 244 154 -61 -57
 data/positive/IMG_6386.jpg 1 191 138 73 64
 data/positive/IMG_6387.jpg 1 140 123 83 73
 data/positive/IMG_6388.jpg 1 260 132 81 74
